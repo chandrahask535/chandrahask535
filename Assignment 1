@@ -1,0 +1,30 @@
+def findMajorityElement(nums):
+    majorityElement = -1
+    count = 0
+
+    # Finding potential majority element
+    for num in nums:
+        if count == 0:
+            majorityElement = num
+            count = 1
+        elif majorityElement == num:
+            count += 1
+        else:
+            count -= 1
+
+    # Validating the potential majority element
+    count = 0
+    for num in nums:
+        if num == majorityElement:
+            count += 1
+
+    if count > len(nums) // 2:
+        return majorityElement
+    else:
+        return -1
+
+# Test case
+nums = [2, 4, 5, 5, 5, 5, 5]
+result = findMajorityElement(nums)
+print(result)  # Output: 5
+
