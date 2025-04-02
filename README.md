@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-penguin-i-like-pressing-buttons-puv3coc5z4pkth51.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrahask535&label=Profile%20views&color=0e75b6&style=flat" alt="chandrahask535" /> </p>
 
-- 🔭 I’m currently working on [BDA on Covid Vaccine Effects](https://github.com/chandrahask535/Big-Data-Analysis-to-Identify-Effects-of-Covid-19-Vaccines2.0)
+- 🔭 I’m currently working on [Integrated Urban Planning and Urban Water Management System for Bangalore]((https://github.com/chandrahask535/urban-insight-vision))
 
 - 📫 How to reach me **chandrahask535@gmail.com**
 
@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandrahask535&show_icons=true&locale=en" alt="chandrahask535" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandrahask535&" alt="chandrahask535" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=chandrahask535&" alt="chandrahask535" /></p>
